@@ -1,4 +1,4 @@
-# Health data challenge
+# Clinical data analysis challenge
 
 1. Spend some time exploring the data and show or discuss what you find. What are the types of data quality issues will you have to consider? 
 
