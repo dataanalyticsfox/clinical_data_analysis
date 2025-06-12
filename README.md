@@ -1,7 +1,4 @@
-# verana_health
-Technical assessment for Qualitative Scientist role
-
-[Here is a link to the data zip file ](https://drive.google.com/file/d/1hcMQ7Cb_Qfro5JW-EimKCzDsjVaKmLUq/view)
+# Health data challenge
 
 1. Spend some time exploring the data and show or discuss what you find. What are the types of data quality issues will you have to consider? 
 
